@@ -1,12 +1,35 @@
-# React + Vite
+# Casa-Lool-Beh
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto web de reservas de hotel construido con **React**, **Vite** y **TailwindCSS**.  
+Ideal para mostrar habilidades de desarrollo frontend y creación de interfaces modernas y responsivas.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔹 Funcionalidades
 
-## Expanding the ESLint configuration
+- Sistema de reservas de hotel básico.
+- Interfaz responsive que se adapta a móviles y escritorio.
+- Uso de componentes reutilizables en React.
+- Integración con estilos modernos usando TailwindCSS.
+- Optimizado para producción con Vite.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔹 Tecnologías utilizadas
+
+- [React](https://reactjs.org/) - Librería para construir interfaces de usuario.
+- [Vite](https://vitejs.dev/) - Herramienta de construcción rápida para proyectos web.
+- [TailwindCSS](https://tailwindcss.com/) - Framework CSS para estilos modernos y rápidos.
+- JavaScript moderno (ES6+)
+- HTML5 y CSS3
+
+---
+
+## 🔹 Instalación y ejecución
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/Joludime/Casa-Lool-Beh.git
+
+
